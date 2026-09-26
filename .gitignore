@@ -1,0 +1,17 @@
+# Build artifacts
+.pio/
+.vscode/
+*.o
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+*.user
+*.code-workspace
